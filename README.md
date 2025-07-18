@@ -15,6 +15,8 @@
 
 ## 📝 Latest Blog Posts
 
+- **[WordPress: How to Speed Up Your Website in 2025](https://www.vertex-web.com/blog/wordpress-how-to-speed-up-website)**<br>
+  <sub>Published on July 18, 2025</sub>
 - **[The Ultimate Guide to n8n Workflows for SEO Automation](https://vertex-web.com/blog/n8n-workflows-seo-automation)**  
   <sub>Published on July 17, 2025</sub>
 - **[Why Headless CMS is the Future of Web Development](https://vertex-web.com/blog/headless-cms-future-web-development)**  
