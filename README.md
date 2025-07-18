@@ -15,6 +15,8 @@
 
 ## 📝 Latest Blog Posts
 
+- **[How to Secure a Website From Hackers: 2025 Guide](https://www.vertex-web.com/help-center/how-to-secure-website-from-hackers-2025-guide)**<br>
+  <sub>Published on July 18, 2025</sub>
 - **[WordPress: How to Speed Up Your Website in 2025](https://www.vertex-web.com/blog/wordpress-how-to-speed-up-website)**<br>
   <sub>Published on July 18, 2025</sub>
 - **[The Ultimate Guide to n8n Workflows for SEO Automation](https://vertex-web.com/blog/n8n-workflows-seo-automation)**  
